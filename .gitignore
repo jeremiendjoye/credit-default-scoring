@@ -1,0 +1,9 @@
+# Environnements et caches Python
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Donnees : le notebook telecharge le fichier UCI (ou en met une copie en cache) dans data/
+data/*
+!data/.gitkeep

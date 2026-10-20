@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn>=1.4
+xgboost>=2.0
+joblib
+xlrd>=2.0.1
+openpyxl
+jupyter
+nbconvert
+ipykernel
